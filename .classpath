@@ -6,5 +6,18 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/neela/Selenium/RestAssured/commons-codec-1.17.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/neela/Selenium/RestAssured/groovy-5.0.0-alpha-10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/neela/Selenium/RestAssured/groovy-all-5.0.0-alpha-10-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/neela/Selenium/RestAssured/groovy-json-5.0.0-alpha-10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/neela/Selenium/RestAssured/groovy-xml-5.0.0-alpha-10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/neela/Selenium/RestAssured/hamcrest-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/neela/Selenium/RestAssured/httpclient5-5.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/neela/Selenium/RestAssured/httpclient5-5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/neela/Selenium/RestAssured/httpclient5-5.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/neela/Selenium/RestAssured/httpclient5-5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/neela/Selenium/RestAssured/httpcore5-5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/neela/Selenium/RestAssured/rest-assured-5.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/neela/Selenium/RestAssured/rest-assured-5.5.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
