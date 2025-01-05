@@ -20,7 +20,7 @@ public class apiTest {
 
     // Verify the 'GBP' description equals 'British Pound Sterling'
     response.then().body("bpi.GBP.description", equalTo("British Pound Sterling"));
-
+//sop
 	}
 
 }
